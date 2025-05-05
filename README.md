@@ -2,6 +2,8 @@
 ##### 📫 How to reach me: markus.hanninen007@gmail.com
 ##### 🤔 I want to be a game developer one day. 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **Dinafti/Dinafti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
