@@ -1,7 +1,7 @@
 # Hey👋, I am Markus Hänninen
-##### 📫 How to reach me: markus.hanninen007@gmail.com
-##### 🤔 I want to be a game developer one day. 
 ---
+#### 📫 How to reach me: markusjarimatias@gmail.com
+#### 🤔 I want to be a game developer one day. 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dinafti&show_icons=true&show=discussions_started,discussions_answered,&theme=shadow_blue&hide=stars,prs,issues)
 [](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinafti&size_weight=0.5&count_weight=0.5)
 <!--START_SECTION:waka-->
